@@ -1,0 +1,6 @@
+@VeterinariaSaep_HostAddress = http://localhost:5017
+
+GET {{VeterinariaSaep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
